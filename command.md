@@ -59,7 +59,7 @@ iperf3 -c 10.207.4.15 -t 10
 iperf3 -c 10.207.4.15 -u -b 5M -t 10
 ```
 
-12. curl throughtput (download speed) and total download time
+12. curl throughput (download speed) and total download time
 ```
 curl -o /dev/null -s -w "Throughput: %{speed_download} B/s\nWaktu Total: %{time_total} detik\n" http://10.207.4.15:9999/5M.bin
 ```
