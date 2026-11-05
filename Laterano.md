@@ -11,6 +11,7 @@ python3 -m http.server 9999 -d /root/myscripts/myweb
 ```
 chmod +x /root/start_http.sh
 ./start_http.sh
+```
 
 2. Laterano /root/myscripts/myweb
 
