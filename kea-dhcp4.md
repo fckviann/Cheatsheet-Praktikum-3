@@ -24,7 +24,7 @@ cat << 'EOF' etc/kea/kea-dhcp4ile.conf
 EOF
 ```
 
-2. Yan (BOOK IP, for source html)
+2. Yan (BOOK IP, for html source)
 
 ```
 cat << 'EOF' etc/kea/kea-dhcp4ile.conf
